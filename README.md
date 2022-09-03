@@ -4,3 +4,9 @@ Forecasting persian stcok closing price with diffrent \ پیشبینی قیمت 
 In this project, we try to forecast the stock prices of persian exchange. 
 
 files are going to be uploaded soon ... :)
+
+- codes
+- graphs
+- results
+- notebook comments
+- sample data
